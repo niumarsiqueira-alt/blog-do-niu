@@ -4,7 +4,15 @@
     box-sizing: border-box;
 }
 
-body {
+body {body {body {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
     background-color: #000000;
     color: #0c0b0b;
     font-family: Arial, sans-serif;
