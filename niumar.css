@@ -15,7 +15,7 @@ header {
     text-align: center;
     padding: 50px 20px;
     background-color: #080808;
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 2px solid #000000;
 }
 
 header h1 {
@@ -25,7 +25,7 @@ header h1 {
 
 header p {
     font-size: 18px;
-    color: #cccccc;
+    color: #0c0b0b;
 }
 
 nav {
@@ -35,7 +35,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: rgb(5, 5, 5);
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
@@ -56,7 +56,7 @@ section {
     padding: 30px;
     margin-bottom: 25px;
     border-radius: 12px;
-    border: 1px solid #333333;
+    border: 1px solid #070606;
 }
 
 h2 {
@@ -73,7 +73,7 @@ footer {
     text-align: center;
     padding: 30px;
     background-color: #080808;
-    color: #aaaaaa;
+    color: #000000;
     margin-top: 50px;
 }
 
